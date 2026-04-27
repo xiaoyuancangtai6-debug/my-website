@@ -36,7 +36,7 @@ nav li {
 
 nav a {
     color:#fff;
-    background:url(gray2.png) repeat-x bottom;
+    background:url(gray1.png) repeat-x bottom;
     font-weight:bold;
     display:block; 
     line-height: 1.0;
@@ -47,7 +47,7 @@ nav a {
 }
 
 nav a:hover {
-    background: url(blue2.png) repeat-x bottom;
+    background: url(blue1.png) repeat-x bottom;
     background: #f6d;
 }
 
